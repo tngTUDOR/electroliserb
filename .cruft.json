@@ -1,0 +1,24 @@
+{
+  "template": "https://github.com/brightway-lca/cookiecutter-brightwaylib",
+  "commit": "dc0764a425dd99c849c6f749c4a6f07b37f0208c",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "full_name": "Tomás NAVARRETE GUTIÉRREZ",
+      "email": "tngTUDOR@noreply.users.github.com",
+      "github_username": "tngTUDOR",
+      "project_name": "electroliserb",
+      "package_name": "electroliserb",
+      "project_short_description": "This is electroliser B.",
+      "version": "0.1.0",
+      "use_pytest": "y",
+      "open_source_license": "MIT",
+      "copyright_year": "2024",
+      "_copy_without_render": [
+        ".github/*"
+      ],
+      "_template": "https://github.com/brightway-lca/cookiecutter-brightwaylib"
+    }
+  },
+  "directory": null
+}
